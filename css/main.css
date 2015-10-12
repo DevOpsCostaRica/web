@@ -1,22 +1,22 @@
 body {
-	width: 100%;
+    width: 100%;
     margin: 0%;
     overflow-x: hidden;
 }
 
 p {
-	font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
-	color: #636466;
-	font-weight: 300;
-	font-size: 16px;
+    font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+    color: #636466;
+    font-weight: 300;
+    font-size: 16px;
 }
 
 h4 {
-	color: #267784;
-	font-family: "Montserrat", sans-serif;
-	font-weight: 400;
-	font-size: 25px;
-	margin-bottom: 0px;
+    color: #267784;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    margin-bottom: 0px;
 }
 
 h3 {
@@ -26,10 +26,10 @@ h3 {
 }
 
 h2 {
-	color: #5b585a;
-	font-family: "Montserrat", sans-serif;
-	font-weight: 700;
-	font-size: 35px;
+    color: #5b585a;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 35px;
 }
 
 .container-fluid {
@@ -42,13 +42,13 @@ h2 {
 }
 
 #intro {
-	padding-left: 50px;
-	padding-right: 50px;
-	text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
 }
 
 #experiencia {
-	text-align: center;
+    text-align: center;
 }
 
 #header {
@@ -56,39 +56,39 @@ h2 {
 }
 
 #footer {
-	padding-top: 25px;
-	padding-bottom: 25px;
+    padding-top: 25px;
+    padding-bottom: 25px;
     background-color: #5b585a;
 }
 
 .hilera-servicios {
-	margin-top: 15px;
+    margin-top: 15px;
 }
 
 .hilera-servicios:last-child {
-	margin-bottom: 25px;
+    margin-bottom: 25px;
 }
 
 .intro-servicio {
-	padding-left: 75px;
-	padding-right: 75px;
+    padding-left: 75px;
+    padding-right: 75px;
 }
 
 .social {
     padding-top: 15px;
     padding-left: 50px;
     font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
-	color: #FFFFFF;
-	font-weight: 300;
-	font-size: 12px;
+    color: #FFFFFF;
+    font-weight: 300;
+    font-size: 12px;
 }
 
 .social:last-child {
-	padding-bottom: 15px;
+    padding-bottom: 15px;
 }
 
 .social > img {
-	margin-right: 10px;
+    margin-right: 10px;
 }
 
 #header {
@@ -99,6 +99,6 @@ h2 {
 
 
 #logo {
-	padding-left: 0;
-	padding-right: 30px;
+    padding-left: 0;
+    padding-right: 30px;
 }
