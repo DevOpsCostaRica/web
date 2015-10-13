@@ -51,10 +51,6 @@ h2 {
     text-align: center;
 }
 
-#header {
-    
-}
-
 #footer {
     padding-top: 25px;
     padding-bottom: 25px;
@@ -97,6 +93,12 @@ h2 {
     background-repeat: repeat-x;
 }
 
+#header > div:last-child {
+    font-family: "Lato", "Helvetica Neue", "Helvetica", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    color: #337ab7;
+}
 
 #logo {
     padding-left: 0;
